@@ -36,6 +36,8 @@ $ touch foo.txt
 $ ls
 Copy and paste the output below.
 ----------
+Applications	Documents	Library		Music		Public
+Desktop		Downloads	Movies		Pictures	foo.txt
 
 
 
@@ -53,6 +55,9 @@ $ touch bar.txt
 Copy and paste the output below.
 ----------
 
+Applications	Downloads	Music		bar.txt
+Desktop		Library		Pictures	foo.txt
+Documents	Movies		Public
 
 
 ==========
@@ -62,7 +67,10 @@ Copy and paste the output below.
 Write the command that you used to copy the file.  Additionally, copy and paste the output of your file listing below.
 ----------
 
-
+Calebs-MacBook-Pro:~ calebdee-rakower$ cp bar.txt baz.txt
+Applications	Downloads	Music		bar.txt
+Desktop		Library		Pictures	baz.txt
+Documents	Movies		Public		foo.txt
 
 ==========
 10. Delete the file called bar.txt and then list the files again.
