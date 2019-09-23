@@ -67,15 +67,15 @@ This command should have a *flag* to specify the output file.  MAKE SURE TO NAME
 
 Write the command(s) that you used to download this file - as well as its output - below:
 ----------
+curl -mtec1003-lab-03.tar.gz tp://entertainmenttechnology.github.io/Wilson-MTEC1003/labs/03/mtec1003-lab-03.tar.gz
 
-i do not have enough space to download it
 
 ==========
 7.  Uncompress the file that you just downloaded.
 
 Write the command(s) that you used to do this - as well as its output - below:
 ----------
-
+it was not letting me uncompress it
 
 
 ==========
