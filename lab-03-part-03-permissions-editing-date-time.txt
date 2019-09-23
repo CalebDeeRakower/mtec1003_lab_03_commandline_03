@@ -39,7 +39,7 @@ Su Mo Tu We Th Fr Sa
 
 What commands did you use to do this?
 ----------
-
+cd ~
 
 
 ==========
